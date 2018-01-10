@@ -1,5 +1,6 @@
 /**
- * 公共参数
+ * Add common parameters through OkHttp's Interceptor
+ *
  * 1) Header
  * 2) Query Param
  * 3) POST Param form-data
