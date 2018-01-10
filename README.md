@@ -7,7 +7,7 @@ You can add common parameters to
 * HTTP GET's url as query parameter
 * HTTP POST's body
 
-when you serve internet throgh [OkHttp](https://github.com/square/okhttp)
+when you serve internet through [OkHttp](https://github.com/square/okhttp)
 
 ## How to use?
 
